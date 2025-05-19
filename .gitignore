@@ -1,0 +1,5 @@
+__pycache__
+.ropeproject
+log.txt
+*.pt
+.DS_STORE
