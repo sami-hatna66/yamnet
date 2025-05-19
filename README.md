@@ -6,7 +6,7 @@ This repository implements the YAMNet model for audio classification in PyTorch.
 
 ## Usage
 
-[example.py](src/example.py) contains example code training YAMNet on the ESC50 dataset. The project contains dataloaders and scripts for downloading the ESC50 and FSD50K datasets for audio classification. Training YAMNet on ESC50 is as simple as the following:
+[example.py](example.py) contains example code training YAMNet on the ESC50 dataset. The project contains dataloaders and scripts for downloading the ESC50 and FSD50K datasets for audio classification. Training YAMNet on ESC50 is as simple as the following:
 
 ```bash
 pip install -r requirements.txt
